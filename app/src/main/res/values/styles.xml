@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorPrimaryDark">@color/verdeescuro</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MinhaToolbarTheme" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorPrimaryDark">@color/verdeescuro</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="LightPopUpTheme" parent="Base.Theme.AppCompat.Light"></style>
+
+
+</resources>

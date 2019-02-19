@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "823946919589",
+    "firebase_url": "https://telastask-c9adb.firebaseio.com",
+    "project_id": "telastask-c9adb",
+    "storage_bucket": "telastask-c9adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823946919589:android:2d56b6b0fc3c5fbd",
+        "android_client_info": {
+          "package_name": "com.example.marlon.telastask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823946919589-d59vh5lvnh6ep6c85hcth357k28j5pfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marlon.telastask",
+            "certificate_hash": "7d8f9e1c878bb2d483db2515c05761a748cca183"
+          }
+        },
+        {
+          "client_id": "823946919589-2r1k635sgemodiunhmesujtto62c22r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wiGitQu1gXfJgi_mcl2fzSkqcaNFjgE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823946919589-2r1k635sgemodiunhmesujtto62c22r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

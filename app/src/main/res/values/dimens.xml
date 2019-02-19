@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="tamanho">140dp</dimen>
+    <dimen name="tarefa">13sp</dimen>
+    <dimen name="descricao">9sp</dimen>
+    <dimen name="margemlado">25dp</dimen>
+    <dimen name="double_horizontal_margin">32dp</dimen>
+    <dimen name="double_vertical_margin">32dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="txtTitulo">24sp</dimen>
+    <dimen name="paddingButtoCompartilhar">10dp</dimen>
+</resources>

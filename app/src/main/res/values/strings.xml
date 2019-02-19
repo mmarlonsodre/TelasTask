@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="senha">Password</string>
+    <string name="email">Email</string>
+    <string name="adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="title_activity_registrador">Register account</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_cadastro">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="registering_user">Registrando Usuário</string>
+    <string name="regristration_error">Falha ao se registrar</string>
+    <string name="login_error">email ou senha inválido </string>
+    <string name="login_efetuado">Login Efetuado</string>
+    <string name="efetuando_login">Efetuando Login</string>
+    <string name="successfully_registred">Registrado com sucesso</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Register account</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="drawer_open">Gaveta de navegação aberta</string>
+    <string name="drawer_close">Gaveta de navegação fechada</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="idCompartihar">Id do usuario:</string>
+    <string name="compartilhar">Compartilhar</string>
+
+</resources>
